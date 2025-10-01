@@ -1,5 +1,6 @@
 # win11-terminal
-win11-terminal
+
+## Istruzioni
 
 1. scaricare scoop
 
@@ -58,3 +59,7 @@ ssh -T git@github.com
 
 
 4. importare i file
+
+## Link utili
+
+https://github.com/nushell/nu_scripts/tree/main

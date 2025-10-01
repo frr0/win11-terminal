@@ -62,6 +62,7 @@ alias glog = git log --oneline --decorate --graph
 
 source ~\AppData\Roaming\nushell/prompt.nu
 source ~\AppData\Roaming\nushell/git.nu
+source ~\AppData\Roaming\nushell/docker.nu
 $env.PROMPT_COMMAND = {|| full-left-prompt }
 $env.PROMPT_INDICATOR = {|| "" }
 $env.PROMPT_COMMAND_RIGHT = {|| "" }
