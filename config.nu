@@ -17,6 +17,9 @@
 # options using:
 #     config nu --doc | nu-highlight | less -R
 
+$env.config.show_banner = false
+$env.config.show_banner = false
+
 #alias cat = bat
 alias q = exit
 alias l = lazygit
@@ -58,6 +61,7 @@ alias gsi = git submodule init
 alias glog = git log --oneline --decorate --graph
 
 source ~\AppData\Roaming\nushell/prompt.nu
+source ~\AppData\Roaming\nushell/git.nu
 $env.PROMPT_COMMAND = {|| full-left-prompt }
 $env.PROMPT_INDICATOR = {|| "" }
 $env.PROMPT_COMMAND_RIGHT = {|| "" }

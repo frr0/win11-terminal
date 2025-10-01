@@ -22,6 +22,7 @@ scoop install lazygit
 scoop bucket add main
 scoop install neovim
 scoop install bottom
+scoop install zoxide bat fd ripgrep fzf delta gh tldr lsd httpie navi
 ```
 3. ssh key
 
