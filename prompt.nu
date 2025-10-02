@@ -73,6 +73,7 @@ let MODIFY_FILE_STYLE = $'(ansi yellow)M'
 let DELETE_FILE_STYLE = $'(ansi red)D'
 let CONFLICT_FILE_STYLE = $'(ansi light_purple_bold)C'
 let DURATION_STYLE = $'(ansi yellow)'
+let TIME_STYLE = $'(ansi dark_gray_bold)'
 
 def prompt-indicator [] {
     if ($env.LAST_EXIT_CODE | into int) == 0 {
@@ -371,4 +372,12 @@ def is-ssh-session [] {
     } else {
         false
     }
+}
+
+export def prompt-right-time [] {
+ #let TIME_STYLE = $'(ansi dark_gray_bold)'
+ # Formatta l'ora nel formato H:MM (es. 12:45)
+ let time_str = (date now | format date "%H:%M")
+ # Restituisce l'ora con lo stile desiderato
+ $'(ansi reset)($TIME_STYLE)($time_str)(ansi reset)'
 }

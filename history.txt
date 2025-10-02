@@ -1,0 +1,1029 @@
+ls
+la
+ls
+cd GitHub\
+ls
+git
+c
+la
+exit
+ls
+cd Downloads\
+ls
+cd ..
+cd Downloads\bike011642\241101164200.fit
+vim Downloads\bike011642\241101164200.fit
+cd GitHub\
+ls
+git clone https://github.com/frr0/Basic-Terminal.git
+git clone https://github.com/frr0/provaaaa.git
+cd provaaaa\
+ls
+intellij .
+vim .
+l
+ls
+ls -a
+cd ..
+cd Downloads\
+ls
+cd sqldeveloper-24.3.1.347.1826-x64\sqldeveloper\sqldeveloper\bin\
+ls
+ls -a
+ls | sort-by size | reverse
+# => ╭───┬─────────────────┬──────┬───────────┬──────────────╮
+# => │ # │      name       │ type │   size    │   modified   │
+# => ├───┼─────────────────┼──────┼───────────┼──────────────┤
+# => │ 0 │ Cargo.lock      │ file │ 194.9 KiB │ 15 hours ago │
+# => │ 1 │ toolkit.nu      │ file │  20.0 KiB │ 15 hours ago │
+# => │ 2 │ README.md       │ file │  12.0 KiB │ 15 hours ago │
+# => │ 3 │ CONTRIBUTING.md │ file │  11.0 KiB │ 5 months ago │
+# => │ 4 │ ...             │ ...  │ ...       │ ...          │
+# => │ 5 │ LICENSE         │ file │   1.1 KiB │ 9 months ago │
+# => │ 6 │ CITATION.cff    │ file │     812 B │ 2 months ago │
+# => │ 7 │ Cross.toml      │ file │     666 B │ 6 months ago │
+# => │ 8 │ typos.toml      │ file │     513 B │ 2 months ago │
+# => ╰───┴─────────────────┴──────┴───────────┴──────────────╯
+ls | sort-by size | reverse
+clear
+la
+ls -a
+cd
+alias c=clear
+alias c = clear
+c
+alias c = clear
+c
+alias la = ls -la
+la
+ls -a
+alias la = ls -a
+la
+l
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+exit
+lazygit.exe 
+cd GitHub\provaaaa\
+lazygit.exe 
+cd ..
+la
+ls -la
+cd Basic-Terminal\
+ls -la
+l
+lazygit.exe 
+code .
+cd
+cd .config\
+ls
+cd ..
+cd AppData\Roaming\
+ls
+cd nushell\
+ls
+vi config.nu
+vim config.nu
+exit
+la
+l
+q
+exit
+l
+cd nushell\
+cd AppData\Roaming\nushell\
+ls
+n config.nu
+vim config.nu
+exit
+cd AppData\Roaming\nushell\
+ls
+vim config.nu
+exit
+vim AppData\Roaming\nushell\config.nu
+exit
+la
+vim AppData\Roaming\nushell\config.nu
+exit
+la
+vim AppData\Roaming\nushell\config.nu
+exit
+la
+ls
+la
+l
+c
+n AppData\Roaming\nushell\config.nu
+scoop install bat
+bat
+bat AppData\Roaming\nushell\config.nu
+scoop bucket add extras
+scoop install bat exa htop zellij
+scoop install  htop zellij
+scoop install  bpytop zellij
+scoop install zellij
+scoop install exa
+scoop update
+scoop bucket add extras
+scoop install bat exa htop bpytop zellij
+scoop search zellij
+cd AppData\Local\nvim\
+ls
+n init.vim
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+n AppData\Roaming\nushell\config.nu
+vim AppData\Roaming\nushell\config.nu
+q
+exit
+vim AppData\Roaming\nushell\config.nu
+exit
+la
+ls
+c
+cd GitHub\provaaaa\
+l
+la
+n prova.txt
+la
+l
+cd
+c
+ls
+c
+cd GitHub\provaaaa\
+l
+cd
+n AppData\Local\nvim\
+cd GitHub\
+ls
+cd tirocinio\
+ls
+code ./AcquireForms/
+ls
+la
+ls
+c
+ls
+c
+l
+la
+c
+ls
+c
+gstat
+n AppData\Roaming\nushell\config.nu
+la
+c
+cd GitHub\
+cd Adventures\
+ls
+l
+1
+2
+3
+cd 
+n AppData\Roaming\nushell\config.nu
+la
+c
+cd AppData\Roaming\nushell\
+n prompt.nu
+cd AppData\Roaming\nushell\
+ls
+n config.nu
+vim config.nu
+exit
+ls
+x
+c
+cd GitHub\
+cd Adventures\
+cd
+cd AppData\Roaming\nushell\
+n prompt.nu
+1
+cd 1
+cd
+cd 
+c
+la
+c
+n prompt.nu
+cd GitHub\
+cd Allianz-Stadium-Tickets-Alert\
+l
+cd
+cd AppData\Roaming\nushell\
+n prompt.nu
+cd AppData\Roaming\nushell\
+ls
+c
+cd AppData\Roaming\nushell\
+cd C:\Users\franc\GitHub\Basic-Terminal\
+l
+cd ..\Allianz-Stadium-Tickets-Alert\
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+cd GitHub\Allianz-Stadium-Tickets-Alert\
+cd c
+cd
+cd GitHub\
+ls
+cd tirocinio\
+cd ..
+cd Signal-Analysis-Formula-Sheet\
+cd ..
+cd Operating_Systems\
+l
+fedora
+cd ..
+ls
+cd Adventures\
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+cd 
+cd GitHub\
+cd provaaaa\
+l
+gaa
+gaa prova.txt
+ga prova.txt
+exit
+cd GitHub\provaaaa\
+gaa
+gca
+gp
+ls
+l
+exa
+bat
+c
+ls
+e
+f
+C:\Users\franc\GitHub\provaaaa
+f
+C:\Users\franc\Politecnico Di Torino Studenti Dropbox\2024\2024
+C:\Users\franc\Politecnico\ \Di\ \Torino\ \Studenti\ \Dropbox\2024\2024
+C:\Users\franc\Politecnico\Di\Torino\Studenti\Dropbox\2024\2024
+cd 
+cd `Politecnico Di Torino Studenti Dropbox\`
+cd 2024\
+ls
+cd ..
+cd 2021\
+ls
+cd
+c
+C:\Users\franc\OneDrive\Documenti\PowerShell
+c
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+top
+htop
+scoop install bottom
+bottom
+btm
+n config.nu
+h
+l
+scoop install btop
+btop
+n config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+tasklist
+c
+cd
+cd GitHub\
+git clone git@github.com:frr0/win11-terminal.git
+ls
+cd
+dir ~\.ssh
+ssh-keygen -t ed25519 -C "fra.sette.p.c@gmail.com"
+Start-Service ssh-agent
+exit
+Start-Service ssh-agent
+Start-Process powershell -Verb RunAs
+powershell.exe 
+ssh-keygen -t ed25519 -C "fra.sette.p.c@gmail.com"
+ssh-add frr0\.ssh\id_ed25519
+ssh-add \.ssh\id_ed25519
+cd .ssh\
+ls
+ssh-add ~\.ssh\id_ed25519
+Get-Content ~/.ssh\id_ed25519.pub | clip
+cat id_ed25519.pub
+ssh -T git@github.com
+cd
+c
+cd GitHub\
+git clone git@github.com:frr0/win11-terminal.git
+cd win11-terminal\
+cp c:\Users\franc\AppData\Roaming\nushell\config.nu .
+ls
+cp c:\Users\franc\AppData\Roaming\nushell\prompt.nu .
+cp c:\Users\franc\AppData\Local\nvim\ .
+cp c:\Users\franc\AppData\Local\nvim\init.vim .
+ls
+n README.md
+l
+c
+cd
+c
+C:\Users\franc\OneDrive\Documenti\PowerShell
+c
+cd
+ls
+c
+C:\Users\franc\Downloads\OracleXE213_Win64\ISSetupPrerequisites\{8AD2FD1D-5968-4AD0-95CA-A6CF96F331FE}
+cd ..
+cd GitHub\provaaaa\
+ls
+c
+cd ..
+ls
+cd corso-sql\
+ls
+l
+gl
+ls
+code .
+git
+git gui
+c
+cd ,,
+cd ..
+ls
+cd Public\
+ls
+cd Documents\
+ls
+cd ..
+ls
+exa
+grep
+cd Users\franc\AppData\Roaming\nushell\
+n config.nu
+n git.nu
+cd GitHub\provaaaa\
+la
+n prova2.txt
+l
+git add prova2.txt 
+git commit prova2.txt -m "cose"
+git push
+cd ..\win11-terminal\
+cp c:\Users\franc\AppData\Roaming\nushell\git.nu .
+git add git.nu
+git commit git.nu -m "add git.nu"
+git push
+scoop install zoxide bat fd ripgrep fzf delta gh tldr duff lsd httpie navi
+scoop install zoxide bat fd ripgrep fzf delta gh tldr lsd httpie navi
+scoop install zoxide bat fd ripgrep fzf delta gh tldr lsd navi
+n README.md
+zoxide 
+zoxide ..
+zoxide -h
+zoxide.exe add ciao
+ls
+fzf
+cd
+fzf
+gh
+delta
+cd AppData\Roaming\nushell\
+n config.nu
+fd
+fd env.nu
+cd
+fd
+la
+fzf
+fd
+fd sql
+fd sqldevelsqldevebin
+fd sqldevel sqldevel bin
+fd sqldevel
+c
+la
+cd
+c
+cd AppData\Roaming\nushell\
+n config.nu
+z github
+z Github
+z
+n config.nu
+cd AppData\Roaming\nushell\
+cd
+cd GitHub\win11-terminal\
+z nushell
+cd ..
+cd..
+cd ..
+cd AppData\Roaming\nushell\
+n config.nu
+vim config.nu
+exit
+:q
+exit
+powershell
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+vim config.nu
+exity
+exit
+vim config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+vim config.nu
+exit
+ls
+c
+github
+Github
+cd GitHub\win11-terminal\
+git diff
+git diff master master
+git diff master HEAD
+git diff master ORIG_HEAD
+git diff master FETCH_HEAD
+cd
+c
+z 1
+z GitHub\
+cd AppData\Roaming\nushell\
+n config.nu
+exit
+la
+c
+ls
+c
+cd GitHub\win11-terminal\
+rm config.nu
+cp c:\Users\franc\AppData\Roaming\nushell\config.nu .
+git add * 
+git commit * -m "modifiche"
+git push
+ls
+docker
+cd 
+cd AppData\Roaming\nushell\
+n docker.nu
+n config.nu
+exit
+n README.md
+cp c:\Users\franc\AppData\Roaming\nushell\docker.nu .
+cp c:\Users\franc\AppData\Roaming\nushell\config.nu .
+ls
+l
+c
+exit
+docker run hello-world
+docker run -it alpine sh
+docker run hello-world
+docker run -it alpine sh
+c
+ls
+ca
+cat Adventures.md
+bat Adventures.md
+cat Adventures.md
+bat Adventures.md
+c
+docker run -it alpine sh
+c
+docker run -d \
+c
+docker run -d   --name mio-postgres   -e POSTGRES_PASSWORD=test  -ePOSTGRES_USER=user_dev   -e POSTGRES_DB=mydb_dev   -p 5432:5432   -v postgres_data:/var/lib/postgresql/data   postgres:16-alpine
+docker run -d --name mio-postgres -e POSTGRES_PASSWORD=test -e POSTGRES_USER=user_dev -e POSTGRES_DB=mydb_dev -p 5432:5432 -v postgres_data:/var/lib/postgresql/data
+docker run -d \
+# ^^^^^^^^^^^^^^^^^^^^^^ <--- Immagine mancante!
+c
+docker run -d \
+docker run -d --name mio-postgres -e POSTGRES_PASSWORD=test -e POSTGRES_USER=user_dev -e POSTGRES_DB=mydb_dev -p 5432:5432 -v postgres_data:/var/lib/postgresql/data postgres:16-alpine
+docker ps
+docker exec -it mio-postgres psql -U user_dev -d mydb_dev
+docker exec -it mio-postgres psql -U user_dev
+c
+docker ps
+cd AppData\Roaming\nushell\
+n config.nu
+n ssh.nu
+exit
+cd AppData\Roaming\nushell\
+cd -
+cd --
+cd -
+dirs
+cd 2
+dirs
+scoop install dirs
+dirs
+pushd
+popd
+cd -
+cd -2
+cd -
+cd - 
+cd - -
+cd - _vimrc
+cd - 
+c
+n _vimrc
+la
+ls
+c
+fzf
+ripgrep
+scoop install ripgrep
+fd
+dust
+du
+du -h
+scoop install eza
+scoop install ouch
+scoop install zoxide
+zoxide -h
+z AppData\
+dust .
+du .
+ls
+du GitHub\
+eza la
+eza -la
+eza
+ls
+eza
+eza -a
+fd ".md"
+fd ".pdf"
+rg "TODO"
+bat Adventures.md
+lsd -h
+lsd
+lsd -ls
+lsd -la
+z
+zoxide init nushell | save ~/.zoxide.nu
+cd AppData\Roaming\nushell\
+z
+n config.nu
+exit
+z 
+cd AppData\Roaming\nushell\
+z
+zi
+cd
+cd GitHub\
+cd win11-terminal\
+zi
+ls
+zi
+n config.nu
+exit
+zi
+cd AppData\Roaming\nushell\
+n zoxide.nu
+n config.nu
+exit
+$nu.env-path
+n .zoxide.nu
+bat .zoxide.nu
+cat .zoxide.nu
+cd AppData\Roaming\nushell\
+n .zoxide.nu
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+n .zoxide.nu
+n config.nu
+exit
+z
+zi
+scoop install difftastic
+diff _vimrc _vimrc
+diff _vimrc NTUSER.DAT
+diff _vimrc
+scoop install hyperfine
+hyperfine.exe 
+hyperfine.exe -h
+scoop install k9s
+# oppure
+choco install k9s
+k9s
+zi
+scoop install starship
+zi
+n config.nu
+starship prompt
+cd AppData\Roaming\nushell\
+starship prompt
+n config.nu
+vim config.nu
+exit
+zi
+c
+la
+ls
+cd 
+c
+ls
+zi
+cd win11-terminal\
+l
+cd ..
+cd Curriculm-Vitae\
+scoop install helix
+hx config.nu
+cargo install --locked zellij
+cd
+c
+ls
+lsd
+cd GitHub\
+lsd
+cd win11-terminal\
+sdl
+lsd
+ls
+zi
+cd ..
+cd oop-banca-dati\
+l
+n config.nu
+ls
+ouch Esame_banca_dati.zip
+ouch extractr Esame_banca_dati.zip
+ouch -h
+ouch decompress Esame_banca_dati.zip
+ls
+cd banca\
+ls
+cd ..
+ls
+lsd
+lsd -la
+winget install NerdFonts.FiraCode
+winget search NerdFonts
+scoop install NerdFonts
+c
+cd
+c
+zi
+ls
+lsd -la
+la
+cd ..
+cd
+z
+z GitHub\
+z Allianz-Stadium-Tickets-Alert\
+zi
+gh
+winget install --id Rustlang.Rustup --source winget
+cargo install zellij
+cargo --version
+rustc --version
+exit
+cargo --version
+cargo install zellij
+zellij
+exit
+zellijù
+zellij
+echo $ZELLIJ
+cargo install zellij
+winget install --id Microsoft.VisualStudio.2022.BuildTools
+cargo install zellij
+c
+zi
+n config.nu
+cargo install starship
+n config.nu
+scoop install starship
+cd
+cd Downloads\
+ls
+ouch decompress 0xProto.zip
+cd 0xProto\
+ls
+f
+cd 
+zi 
+n config.nu
+zi
+%USERPROFILE%\.config\starship.toml
+notepad $env:USERPROFILE\.config\starship.toml
+%USERPROFILE%\.config\starship.toml
+cd .config\
+lsd 
+lsd -a
+cd
+lsd -a
+cd .config\
+n starship.toml
+zi
+n config.nu
+cd 
+cd .config\
+n starship.toml
+cd .config\
+n starship.toml
+lsd -a
+vim starship.toml
+exit
+zi
+cd AppData\Roaming\nushell\
+vim config.nu
+q
+exit
+n .config\starship.toml
+zi
+cd ..\Allianz-Stadium-Tickets-Alert\
+cd
+$ENV:STARSHIP_CONFIG = "$HOME\example\non\default\path\starship.toml"
+notepad $env:USERPROFILE\.config\starship.toml
+notepad \.config\starship.toml
+n \.config\starship.toml
+cd ..\Allianz-Stadium-Tickets-Alert\
+cd GitHub\Allianz-Stadium-Tickets-Alert\
+n \.config\starship.toml
+cd
+n \.config\starship.toml
+cd GitHub\Allianz-Stadium-Tickets-Alert\
+zi
+z
+cd GitHub\oop-banca-dati\
+cd ..
+cd provaaaa\
+n ciao.txt
+n ciaoo.txt
+cd
+cd .config\
+n starship.toml
+cd GitHub\oop-banca-dati\
+cd ..
+cd provaaaa\
+cd ..
+cd Adventures\
+n prova.txt
+cd 
+zi 
+n config.nu
+cd GitHub\
+cd Allianz-Stadium-Tickets-Alert\
+zi
+n config.nu
+zi
+cd
+winget uninstall Starship
+cd GitHub\
+cd Adventures\
+cd
+n .config\starship.toml
+zi
+ls
+n config.nu
+n prompt.nu
+cd GitHub\
+cd
+zi
+n prompt.nu
+n config.nu
+cd AppData\Roaming\nushell\
+ls
+n config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+notepad config.nu prompt.nu
+notepad config.nu
+notepad prompt.nu
+n config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+n prompt.nu
+cd .config\
+f
+cd ..
+cd GitHub\
+cd
+cd GitHub\
+cd provaaaa\
+cd
+zi
+cd AppData\Roaming\nushell\
+ls
+rm prompt.nu
+cd AppData\Roaming\nushell\
+n prompt.nu
+vim prompt.nu
+q
+exit
+n _vimrc
+cd AppData\Roaming\nushell\
+zi
+du config.nu
+n config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+zi
+ls
+cd vendor\
+ls
+n config.nu
+cd ..
+n config.nu
+zi
+n config.nu
+cd GitHub\
+ls
+zi
+n config.nu
+winget uninstall nushell
+cd GitHub\
+zi
+n config.nu
+zi
+n prompt.nu
+zi
+cd AppData\Roaming\nushell\
+vim prompt.nu
+q
+exit
+cd GitHub\
+cd provaaaa\
+cd
+zi 
+n config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+vim config.nu
+q
+exit
+cd AppData\Roaming\nushell\
+vim config.nu
+exit
+cd AppData\Roaming\nushell\
+n prompt.nu
+n config.nu
+u
+n config.nu
+cd AppData\Roaming\nushell\
+cd
+cd GitHub\
+ls
+la
+ls
+cd oop-banca-dati\
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+vim config.nu
+exit
+cd GitHub\oop-banca-dati\
+Get-Content $profile
+powershell
+cd
+cd AppData\Roaming\nushell\
+n env.nu
+vim env.nu
+vim config.nu
+q
+exit
+starship --version
+winget uninstall starship
+scoop uninstall starship
+exit
+cd AppData\Roaming\nushell\
+rm vendor\
+rm -r vendor\
+vim prompt.nu
+vim config.nu
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+exit
+cd AppData\Roaming\nushell\
+cd ..
+cd
+cd GitHub\
+cd oop-banca-dati\
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+cd AppData\Roaming\nushell\
+n config.nu
+cd GitHub\
+cd oop-banca-dati\
+l
+cd
+cd AppData\Roaming\nushell\
+n config.nu
+n prompt.nu
+cd AppData\Roaming\nushell\
+cd
+cd GitHub\
+cd oop-banca-dati\
+zi
+n prompt.nu
+cd AppData\Roaming\nushell\
+n prompt.nu
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\
+cd
+cd AppData\Roaming\nushell\
+n prompt.nu
+exit
+cd AppData\Roaming\nushell\
+n prompt.nu
+exit
+n prompt.nu
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+n config.nu
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+cd
+cd GitHub\
+cd Operating_Systems\
+zi
+n prompt.nu
+cat prompt.nu
+n prompt.nu
+cd AppData\Roaming\nushell\
+n prompt.nu
+vim prompt.nu
+exit
+ls
+c
+cd GitHub\
+ls
+cd
+zi
+cat prompt.nu
+n prompt.nu
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+cd AppData\Roaming\nushell\
+notepad prompt.nu
+cd AppData\Roaming\nushell\
+vim prompt.nu
+exit
+notepad
+cd AppData\Roaming\nushell\
+vim prompt.nu
+notepad prompt.nu
+exit
+n AppData\Roaming\nushell\config.nu
+vim AppData\Roaming\nushell\config.nu
+vim AppData\Roaming\nushell\prompt.nu
+notepad prompt.nu
+vim AppData\Roaming\nushell\prompt.nu
+exit
+vim AppData\Roaming\nushell\prompt.nu
+exit
+vim AppData\Roaming\nushell\prompt.nu
+exit
+vim AppData\Roaming\nushell\prompt.nu
+exit
+vim AppData\Roaming\nushell\prompt.nu
+cat AppData\Roaming\nushell\prompt.nu
+vim AppData\Roaming\nushell\prompt.nu
+exit
+cd AppData\Roaming\nushell\
+cd
+cd GitHub\win11-terminal\
